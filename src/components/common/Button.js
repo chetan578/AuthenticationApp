@@ -30,7 +30,7 @@ borderRadius:6,
 borderWidth:1,
 marginLeft:5,
 marginRight:5,
-borderColor:'007aff'
+borderColor:'000'
 
 }
 }
